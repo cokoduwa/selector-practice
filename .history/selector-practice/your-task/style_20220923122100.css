@@ -3,12 +3,6 @@
   background-color: lavender;
 }
 
-span {
-  color: blue;
-  font-style: italic;
-  font-weight: bold;
-}
-
 #part1 > p {
   color: red;
 }
@@ -19,5 +13,5 @@ span {
 
 .accent {
   font-weight: bold;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }

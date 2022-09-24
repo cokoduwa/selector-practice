@@ -1,0 +1,12 @@
+* {
+  font-family: "Lato";
+  background-color: lavender;
+}
+
+#part1 > p {
+  color: red;
+}
+
+#part1 > li > ul {
+  color: purple;
+}
