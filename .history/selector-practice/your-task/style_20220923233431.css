@@ -28,10 +28,4 @@ span {
 
 section > img {
   border: 2px blue solid;
-  margin: 0 20px;
-}
-
-#part2 > p {
-  color: green;
-
 }

@@ -22,16 +22,6 @@ span {
   text-transform: uppercase;
 }
 
-#part2 > img {
+img {
   border: 2px solid red;
-}
-
-section > img {
-  border: 2px blue solid;
-  margin: 0 20px;
-}
-
-#part2 > p {
-  color: green;
-
 }

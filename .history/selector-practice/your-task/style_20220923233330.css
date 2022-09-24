@@ -25,13 +25,3 @@ span {
 #part2 > img {
   border: 2px solid red;
 }
-
-section > img {
-  border: 2px blue solid;
-  margin: 0 20px;
-}
-
-#part2 > p {
-  color: green;
-
-}

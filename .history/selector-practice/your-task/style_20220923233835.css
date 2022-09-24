@@ -31,7 +31,7 @@ section > img {
   margin: 0 20px;
 }
 
-#part2 > p {
+p~section {
   color: green;
 
 }
