@@ -47,12 +47,5 @@ section > img {
   border: blue 2px dashed;
 }
 
+
 /* Part 4 */
-
-#part4 > ul li ul li {
-  color: red;
-}
-
-#part4 p:nth-of-type(even) {
-  color: hotpink;
-}

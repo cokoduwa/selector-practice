@@ -53,6 +53,6 @@ section > img {
   color: red;
 }
 
-#part4 p:nth-of-type(even) {
+#part4 > p  + p ~ p + p  {
   color: hotpink;
 }
