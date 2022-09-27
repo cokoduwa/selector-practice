@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+/* Your code here */
+
+.heading {
+    background-color: gold;
+    padding: 30px;
+}
+
+main {
+    background-color: #F0F0F0;
+}
+
+.photos {
+    display: flex;
+}

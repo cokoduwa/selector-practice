@@ -14,12 +14,12 @@ body {
 section {
     background-color: white;
     border: gray solid 1px;
-    margin: 30px;
+    margin: 50px;
 }
 
 .photos {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin: 30px;
+    margin: 50px;
 }

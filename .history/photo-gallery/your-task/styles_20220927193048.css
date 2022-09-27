@@ -9,17 +9,17 @@ body {
 .heading {
     background-color: gold;
     padding: 30px;
+    width: 100%;
 }
 
-section {
-    background-color: white;
-    border: gray solid 1px;
-    margin: 30px;
+main {
+    background-color: #F0F0F0;
 }
 
 .photos {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    margin: 30px;
+}
+
+section {
+    background-color: white;
 }
