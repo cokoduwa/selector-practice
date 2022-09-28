@@ -31,6 +31,6 @@ section {
     margin: 30px;
 }
 
-section:hover {
-    transform: rotate(10deg);
+.photos:hover {
+    transform: rotate(45deg);
 }

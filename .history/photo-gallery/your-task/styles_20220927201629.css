@@ -30,7 +30,3 @@ section {
     justify-content: space-around;
     margin: 30px;
 }
-
-section:hover {
-    transform: rotate(10deg);
-}

@@ -32,5 +32,5 @@ section {
 }
 
 section:hover {
-    transform: rotate(10deg);
+    transform: rotate(20deg);
 }

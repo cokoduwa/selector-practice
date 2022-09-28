@@ -8,20 +8,17 @@ body {
 
 h1 {
     font-family: 'Dancing Script', cursive;
-    font-size: 50px;
 }
 
 .heading {
     background-color: gold;
     padding: 30px;
-    text-align: center;
 }
 
 section {
     background-color: white;
     border: gray solid 1px;
     margin: 30px;
-    text-align: center;
 }
 
 .photos {
@@ -29,8 +26,4 @@ section {
     flex-wrap: wrap;
     justify-content: space-around;
     margin: 30px;
-}
-
-section:hover {
-    transform: rotate(10deg);
 }
